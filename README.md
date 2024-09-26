@@ -27,7 +27,6 @@
     </footer>
 </body>
 </html>
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
